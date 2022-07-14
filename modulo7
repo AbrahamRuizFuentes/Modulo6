@@ -1,0 +1,7 @@
+nombre = "Abraham"
+edad = 3.6
+altura =1.85
+
+if altura >= 1.8
+  puts "#{nombre} es alto"
+end
